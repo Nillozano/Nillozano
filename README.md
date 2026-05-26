@@ -24,10 +24,10 @@ La meva passió per la informàtica és àmplia i diversa. Aquí tens un tastet 
 | Disseny digital      | 🟡 Bàsic       | Canva                    |
 
 ## Repositoris
-[Repositori Projecte 2](https://github.com/Nillozano/Projecte2)
-[Repositori Projecte 3](https://github.com/Nillozano/Projecte3)
-[Repositori Projecte 4](https://github.com/Nillozano/Projecte4)
-[Repositori Projecte 5](https://github.com/Nillozano/projecte5-Nillozano)
-[Repositori Projecte 6](https://github.com/Nillozano/projecte6-Nillozano)
-[Repositori Projecte 7](https://github.com/Nillozano/projecte-7-Nillozano-1)
-[Repositori Projecte 8](https://github.com/Nillozano/projecte-8-Nillozano)
+- [Repositori Projecte 2](https://github.com/Nillozano/Projecte2)
+- [Repositori Projecte 3](https://github.com/Nillozano/Projecte3)
+- [Repositori Projecte 4](https://github.com/Nillozano/Projecte4)
+- [Repositori Projecte 5](https://github.com/Nillozano/projecte5-Nillozano)
+- [Repositori Projecte 6](https://github.com/Nillozano/projecte6-Nillozano)
+- [Repositori Projecte 7](https://github.com/Nillozano/projecte-7-Nillozano-1)
+- [Repositori Projecte 8](https://github.com/Nillozano/projecte-8-Nillozano)
