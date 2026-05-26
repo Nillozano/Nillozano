@@ -23,7 +23,7 @@ La meva passió per la informàtica és àmplia i diversa. Aquí tens un tastet 
 | Sistemes operatius   | 🟡 Bàsic  | Windows, Linux, VirtualBox        |
 | Disseny digital      | 🟡 Bàsic       | Canva                    |
 
-## Repositoris
+## 📁 Repositoris
 - [Repositori Projecte 2](https://github.com/Nillozano/Projecte2)
 - [Repositori Projecte 3](https://github.com/Nillozano/Projecte3)
 - [Repositori Projecte 4](https://github.com/Nillozano/Projecte4)
