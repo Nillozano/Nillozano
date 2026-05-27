@@ -13,6 +13,7 @@ La meva passió per la informàtica és àmplia i diversa. Aquí tens un tastet 
 - Edició i disseny digital: M'agrada treballar amb eines com Canva, Word, PowerPoint i altres aplicacions d'ofimàtica per crear presentacions impactants, documents professionals i dissenys visuals.
 
 ## 📁 Repositoris
+- [Repositori Projecte 1](https://drive.google.com/drive/folders/1By5-Ri0xmpfNlo0cK6Rd9jAm-kMOK7ir?usp=sharing)
 - [Repositori Projecte 2](https://github.com/Nillozano/Projecte2)
 - [Repositori Projecte 3](https://github.com/Nillozano/Projecte3)
 - [Repositori Projecte 4](https://github.com/Nillozano/Projecte4)
