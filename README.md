@@ -2,7 +2,7 @@
 
 ## 🧠 Sobre mi
 
-Soc un estudiant apassionat per la informàtica. Em dic Nil, tinc 17 anys i visc a Mataró. Estudio a [l'Escola Pia de Mataró](https://mataro.escolapia.cat/), on actualment curso un Grau Mitjà en Sistemes Microinformàtics i Xarxes.
+Soc un estudiant d'informàtica. Em dic Nil, tinc 17 anys i visc a Mataró. Estudio a [l'Escola Pia de Mataró](https://mataro.escolapia.cat/), on actualment curso un Grau Mitjà en Sistemes Microinformàtics i Xarxes.
 
 
 ## 💻 Passions Tecnològiques
