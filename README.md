@@ -10,7 +10,7 @@ Soc un estudiant d'informàtica. Em dic Nil, tinc 17 anys i visc a Mataró. Estu
 La meva passió per la informàtica és àmplia i diversa. Aquí tens un tastet del que més m'entusiasma:
 
 - Programació: M'encanta escriure codi, entendre com funcionen els algoritmes i crear aplicacions útils. Tot i que encara estic aprenent, m'interessen llenguatges com Python.
-- Edició i disseny digital: M'agrada treballar amb eines com Canva, Word, PowerPoint i altres aplicacions d'ofimàtica per crear presentacions impactants, documents professionals i dissenys visuals.
+- Edició i disseny digital: M'agrada treballar amb eines com Canva, Word, PowerPoint, WordPress i altres aplicacions d'ofimàtica per crear presentacions impactants, documents professionals i dissenys visuals.
 
 ## 📁 Repositoris
 - [Repositori Projecte 1](https://drive.google.com/drive/folders/1By5-Ri0xmpfNlo0cK6Rd9jAm-kMOK7ir?usp=sharing)
